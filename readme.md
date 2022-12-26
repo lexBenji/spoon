@@ -1,6 +1,5 @@
 # Links
-[Intro](#intro)
-[Usage](#usage)
+[Intro](#intro) | [Usage](#usage)
 
 # Intro
 Spoon is just spoons.
